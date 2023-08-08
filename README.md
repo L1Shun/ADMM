@@ -1,5 +1,4 @@
-# ADMM
-## Transactive Energy Framework in Multi-Carrier Energy System Based on ADMM Algorithm
+# Transactive Energy Framework in Multi-Carrier Energy System Based on ADMM Algorithm
 
 Project abstract:\
 As an efficient way to integrate and regulate various distributed energy sources, microgrid (MG) has become increasingly important in the field of power system research. However, the randomness and volatility of renewable energy in microgrid still have a serious impact on its power supply reliability and economic benefits. To address this problem, this thesis aims to construct a distributed solution algorithm for energy trading between microgrid (MG) and distribution network (DN), in order to achieve more efficient and reliable energy trading.
