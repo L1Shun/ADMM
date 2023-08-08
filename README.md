@@ -1,7 +1,7 @@
 # ADMM
-Transactive Energy Framework in Multi-Carrier Energy System Based on ADMM Algorithm
+## Transactive Energy Framework in Multi-Carrier Energy System Based on ADMM Algorithm
 
-Project abstract:
+Project abstract:\
 As an efficient way to integrate and regulate various distributed energy sources, microgrid (MG) has become increasingly important in the field of power system research. However, the randomness and volatility of renewable energy in microgrid still have a serious impact on its power supply reliability and economic benefits. To address this problem, this thesis aims to construct a distributed solution algorithm for energy trading between microgrid (MG) and distribution network (DN), in order to achieve more efficient and reliable energy trading.
 
 This thesis focuses on minimizing the overall operating cost of the system, so the alternating direction method of multipliers (ADMM) is used. When constructing the optimization framework, this thesis fully considers the cost functions of MG and DN, the electrothermal trading constraints, and the operation optimization constraints of each unit, and aims at maximizing the system benefit. In the solution process, each microgrid and distribution network only need to exchange their expected transaction electricity until the convergence condition is satisfied, so as to complete the settlement of electricity transaction. This method can effectively protect the privacy of each unit.
